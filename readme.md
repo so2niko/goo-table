@@ -1,0 +1,1 @@
+![Goo Table logo](./assets/logo.svg/)
