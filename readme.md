@@ -54,7 +54,7 @@ gooTable(url).then(console.log);
 ## Contact
 
 If you have any questions or need assistance, please feel free to contact me at:
-- [email](so2niko+gootable@gmail.com)
+- [email](mailto:so2niko+gootable@gmail.com)
 - [github issue](https://github.com/so2niko/goo-table/issues)
 
 Happy coding!

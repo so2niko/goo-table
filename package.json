@@ -1,6 +1,6 @@
 {
   "name": "goo-table",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "google spreadsheet parser",
   "main": "index.js",
   "scripts": {
