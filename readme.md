@@ -49,7 +49,7 @@ gooTable(url).then(console.log);
 
 ## How get URL
 
-![Alt text](google_table_url.gif)
+![Alt text](/assets/google_table_url.gif)
 
 ## Contact
 
