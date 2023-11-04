@@ -1,5 +1,5 @@
 
-![Goo Table logo](/assets/logo.svg/)
+![Goo Table logo](https://raw.githubusercontent.com/so2niko/goo-table/readme/assets/logo.svg/)
 
 # Goo Table
 
@@ -7,11 +7,11 @@ Welcome to the documentation for "Goo Table" This npm package provides one usefu
 
 ## FROM
 
-![Goo Table logo](/assets/table.png/)
+![Goo Table logo](https://raw.githubusercontent.com/so2niko/goo-table/readme/assets/table.png/)
 
 ## TO
 
-![Goo Table logo](/assets/array.png/)
+![Goo Table logo](https://raw.githubusercontent.com/so2niko/goo-table/readme/assets/array.png/)
 
 ## Installation
 
@@ -49,7 +49,7 @@ gooTable(url).then(console.log);
 
 ## How get URL
 
-![Alt text](/assets/google_table_url.gif)
+![Alt text](https://raw.githubusercontent.com/so2niko/goo-table/readme/assets/google_table_url.gif)
 
 ## Contact
 
